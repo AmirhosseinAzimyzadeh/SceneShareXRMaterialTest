@@ -49,10 +49,10 @@ const Data = {
     {
       name: 'C102',
       types: {
-        [MaterialType.SOLID] : '/videos/C102_solid.mp4',
-        [MaterialType.GLASSY_WIREFRAME] : '/videos/C102_glassy_wireframe.mp4',
-        [MaterialType.EDGE_HIGHLIGHT] : '/videos/C102_edge_highlight.mp4',
-        [MaterialType.UNITY_DEFAULT] : '/videos/C102_unity_default.mp4',
+        [MaterialType.SOLID] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C102_solid.mp4',
+        [MaterialType.GLASSY_WIREFRAME] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C102_glassy_wireframe.mp4',
+        [MaterialType.EDGE_HIGHLIGHT] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C102_edge_highlight.mp4',
+        [MaterialType.UNITY_DEFAULT] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C102_unity_default.mp4',
       },
       questions: [
         {
@@ -88,10 +88,10 @@ const Data = {
     {
       name: 'C103',
       types: {
-        [MaterialType.SOLID] : '/videos/C103_solid.mp4',
-        [MaterialType.GLASSY_WIREFRAME] : '/videos/C103_glassy_wireframe.mp4',
-        [MaterialType.EDGE_HIGHLIGHT] : '/videos/C103_edge_highlight.mp4',
-        [MaterialType.UNITY_DEFAULT] : '/videos/C103_unity_default.mp4',
+        [MaterialType.SOLID] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C103_solid.mp4',
+        [MaterialType.GLASSY_WIREFRAME] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C103_glassy_wireframe.mp4',
+        [MaterialType.EDGE_HIGHLIGHT] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C103_edge_highlight.mp4',
+        [MaterialType.UNITY_DEFAULT] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C103_unity_default.mp4',
       },
       questions: [
         {
@@ -127,10 +127,10 @@ const Data = {
     {
       name: 'C104',
       types: {
-        [MaterialType.SOLID] : '/videos/C104_solid.mp4',
-        [MaterialType.GLASSY_WIREFRAME] : '/videos/C104_glassy_wireframe.mp4',
-        [MaterialType.EDGE_HIGHLIGHT] : '/videos/C104_edge_highlight.mp4',
-        [MaterialType.UNITY_DEFAULT] : '/videos/C104_unity_default.mp4',
+        [MaterialType.SOLID] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C104_solid.mp4',
+        [MaterialType.GLASSY_WIREFRAME] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C104_glassy_wireframe.mp4',
+        [MaterialType.EDGE_HIGHLIGHT] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C104_edge_highlight.mp4',
+        [MaterialType.UNITY_DEFAULT] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C104_unity_default.mp4',
       },
       questions: [
         {
