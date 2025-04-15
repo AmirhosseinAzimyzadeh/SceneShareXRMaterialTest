@@ -1,0 +1,13 @@
+.container {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  border-radius: 10px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.container {
+  /* cursor: url(./cursor.png), auto; */
+}

@@ -1,0 +1,12 @@
+.container table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.container th,
+.container td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+}

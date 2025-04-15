@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 20px;
+  gap: 0px;
+}
+
+.animate {
+  animation: fadeIn 0.6s ease-in-out
+}
+
+/* animation */
+@keyframes fadeIn {
+  0% {
+    opacity: 0.4;
+  }
+  100% {
+    opacity: 1;
+  }
+}
