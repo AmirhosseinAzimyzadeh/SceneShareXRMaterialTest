@@ -10,10 +10,10 @@ const Data = {
     {
       name: 'C105',
       types: {
-        [MaterialType.SOLID] : '/videos/C105_solid.mp4',
-        [MaterialType.GLASSY_WIREFRAME] : '/videos/C105_glassy_wireframe.mp4',
-        [MaterialType.EDGE_HIGHLIGHT] : '/videos/C105_edge_highlight.mp4',
-        [MaterialType.UNITY_DEFAULT] : '/videos/C105_unity_default.mp4',
+        [MaterialType.SOLID] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C105_solid.mp4',
+        [MaterialType.GLASSY_WIREFRAME] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C105_glassy_wireframe.mp4',
+        [MaterialType.EDGE_HIGHLIGHT] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C105_edge_highlight.mp4',
+        [MaterialType.UNITY_DEFAULT] : 'https://github.com/AmirhosseinAzimyzadeh/SceneShareXRMaterialTest/raw/refs/heads/gh-pages/videos/C105_unity_default.mp4',
       },
       questions: [
         {
