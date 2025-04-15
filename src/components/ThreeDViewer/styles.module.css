@@ -31,8 +31,10 @@
 
 .container select {
   min-width: 200px;
+  min-height: 40px;
+  font-size: 20px;
 }
 
 .container select option {
-  background-color: #000;
+  /* background-color: #000; */
 }
